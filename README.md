@@ -42,7 +42,8 @@ This project analyzes the Women’s Premier League (WPL) 2026 dataset using Exce
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard_screenshot.png.png)
+<img width="1672" height="941" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/fd5043a7-5912-4cc9-b895-1c1615b3d3be" />
+
 
 ---
 
