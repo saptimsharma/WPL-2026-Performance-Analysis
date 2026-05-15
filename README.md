@@ -25,7 +25,8 @@ This project analyzes the Women’s Premier League (WPL) 2026 dataset using Exce
 - Toss decision analysis
 
 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard_screenshot.png.png)
+![Dashboard Preview](<img width="1672" height="941" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/1c8159de-8efd-472b-ac64-0166e3e54c86" />
+)
 
 🚀 Skills Demonstrated
 - Data Cleaning
