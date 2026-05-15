@@ -1,36 +1,57 @@
-🏏 WPL 2026 Performance Analysis Dashboard
+# 🏏 WPL 2026 Performance Analysis Dashboard
 
-📌 Project Overview
-This project analyzes the Women’s Premier League (WPL) 2026 dataset using Excel, SQL, Python, and Power BI.
+## 📌 Project Overview
+This project analyzes the Women’s Premier League (WPL) 2026 dataset using Excel, SQL, Python, and Power BI to uncover insights related to team performance, batting, bowling, and match outcomes.
 
-🛠 Tools Used
+---
+
+## 🛠 Tools & Technologies
 - Excel
-- SQL
-- Python
-- Pandas
+- SQL (SQLite)
+- Python (Pandas)
 - Power BI
 
-📊 Key Insights
-- RCB Women dominated league and final
-- Smriti Mandhana scored highest runs
-- Nandini Sharma took highest wickets
-- Harmanpreet Kaur hit most sixes
-- Toss decisions influenced match outcomes
+---
 
-📈 Dashboard Features
-- KPI cards
+## 📊 Key Analysis Performed
 - Team performance analysis
-- Bowling analysis
-- Batting analysis
-- Toss decision analysis
+- Top run-scorer identification
+- Bowling performance analysis
+- Six-hitting analysis
+- All-rounder identification
+- Toss decision impact analysis
 
-📷 Dashboard Preview
-![Dashboard Preview](<img width="1672" height="941" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/1c8159de-8efd-472b-ac64-0166e3e54c86" />
-)
+---
 
-🚀 Skills Demonstrated
+## 🔥 Key Insights
+- Royal Challengers Bengaluru Women dominated both league stage and final
+- Smriti Mandhana became the top run-scorer with 377 runs
+- Nandini Sharma led the bowling charts with 17 wickets
+- Sophie Devine contributed as a valuable all-rounder
+- Harmanpreet Kaur smashed the highest number of sixes
+- Teams bowling first had higher winning probability
+
+---
+
+## 📈 Dashboard Features
+- Interactive Power BI dashboard
+- KPI cards for matches, runs, and wickets
+- Team and player performance visuals
+- Dynamic charts and filters
+
+---
+
+## 📷 Dashboard Preview
+![Dashboard Preview](images/dashboard_screenshot.png.png)
+
+---
+
+## 🚀 Skills Demonstrated
 - Data Cleaning
-- SQL Analysis
-- Dashboard Development
+- Data Analysis
+- SQL Querying
 - Data Visualization
-- Analytical Thinking
+- Dashboard Design
+- Business Insight Generation
+
+
